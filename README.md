@@ -1,4 +1,4 @@
-# drkplayer
+# DrkPlayer
 https://tiktokusers.github.io/drkplayer/
 
 <p align="center">
