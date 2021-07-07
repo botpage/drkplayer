@@ -12,7 +12,7 @@ new Vue({
         {
           name: "Blinding Lights",
           artist: "The Weeknd",
-          cover: "img/1.jpg",
+          cover: "./img/2.jpg",
           source: "./mp3/2.mp3",
           url: "#",
           favorited: true
@@ -20,7 +20,7 @@ new Vue({
         {
           name: "Regueton Mix V1",
           artist: "None",
-          cover: "img/2.jpg",
+          cover: "./img/1.jpg",
           source: "https://gitlab.com/DrkBotPublic/botarchives/-/raw/master/mixreggeton2.mp3",
           url: "#",
           favorited: false
@@ -28,7 +28,7 @@ new Vue({
         {
           name: "Your Love",
           artist: "ATB Topic",
-          cover: "img/3.jpg",
+          cover: "./img/yourlove.jpg",
           source: "https://gitlab.com/DrkBotPublic/botarchives/-/raw/master/yourlove-atbtopic.mp3",
           url: "#",
           favorited: false
@@ -36,7 +36,7 @@ new Vue({
         {
           name: "Cradles",
           artist: "Sub Urban",
-          cover: "img/4.jpg",
+          cover: "./img/cradles.jpg",
           source: "https://gitlab.com/DrkBotPublic/botarchives/-/raw/master/cradles-sub_urban.mp3",
           url: "#",
           favorited: false
@@ -44,23 +44,23 @@ new Vue({
         {
           name: "Beggin",
           artist: "Maneskin",
-          cover: "img/5.jpg",
+          cover: "./img/maneskin.jpg",
           source: "https://gitlab.com/DrkBotPublic/botarchives/-/raw/master/beggin-maneskin.mp3",
           url: "#",
-          favorited: false
+          favorited: true
         },
         {
           name: "Mashup Pop",
           artist: "None",
-          cover: "img/6.jpg",
+          cover: "./img/wannado.jpg",
           source: "https://gitlab.com/DrkBotPublic/botarchives/-/raw/master/DoWannaDo.mp3",
           url: "#",
-          favorited: false
+          favorited: true
         },
         {
           name: "Alive",
           artist: "R3hab",
-          cover: "img/7.jpg",
+          cover: "./img/alive.jpg",
           source: "https://gitlab.com/DrkBotPublic/botarchives/-/raw/master/alive-rehab.mp3",
           url: "#",
           favorited: false
@@ -68,7 +68,7 @@ new Vue({
         {
           name: "Mashup Pop 2",
           artist: "None",
-          cover: "img/8.jpg",
+          cover: "./img/wannado.jpg",
           source: "https://gitlab.com/DrkBotPublic/botarchives/-/raw/master/mashup2.mp3",
           url: "#",
           favorited: false
@@ -76,7 +76,7 @@ new Vue({
         {
           name: "Regueton Mix V2",
           artist: "None",
-          cover: "img/9.jpg",
+          cover: "./img/12.jpg",
           source: "https://gitlab.com/DrkBotPublic/botarchives/-/raw/master/mixreggeton1.mp3",
           url: "#",
           favorited: false
@@ -84,7 +84,7 @@ new Vue({
         {
           name: "Electro Mix V1",
           artist: "The Weeknd",
-          cover: "img/9.jpg",
+          cover: "./img/9.jpg",
           source: "https://gitlab.com/DrkBotPublic/botarchives/-/raw/master/mixelectro1.mp3",
           url: "#",
           favorited: false
