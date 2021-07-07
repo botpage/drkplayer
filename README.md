@@ -23,7 +23,7 @@ https://tiktokusers.github.io/drkplayer/
 
   </a>
   <a href="https://github.com/tiktokusers/drkplayer">
-    <img src="https://img.shields.io/github/languages/top/tiktokusers/drkplayer?color=purple&label=Javascript&style=plastic">
+    <img src="https://img.shields.io/github/languages/top/tiktokusers/drkplayer?color=purple&label=Html&style=plastic">
 
   </a>
   <a href="https://github.com/tiktokusers">
