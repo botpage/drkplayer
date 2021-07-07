@@ -18,10 +18,10 @@ new Vue({
           favorited: true
         },
         {
-          name: "Mix House",
-          artist: "Rammor DJ",
+          name: "Regueton Mix V1",
+          artist: "None",
           cover: "img/2.jpg",
-          source: "https://gitlab.com/DrkBotPublic/botarchives/-/raw/master/mixhouse.mp3",
+          source: "https://gitlab.com/DrkBotPublic/botarchives/-/raw/master/mixreggeton2.mp3",
           url: "#",
           favorited: false
         },
@@ -50,34 +50,42 @@ new Vue({
           favorited: false
         },
         {
-          name: "Blinding Lights",
-          artist: "The Weeknd",
+          name: "Mashup Pop",
+          artist: "None",
           cover: "img/6.jpg",
-          source: "./mp3/2.mp3",
+          source: "https://gitlab.com/DrkBotPublic/botarchives/-/raw/master/DoWannaDo.mp3",
           url: "#",
           favorited: false
         },
         {
-          name: "Blinding Lights",
-          artist: "The Weeknd",
+          name: "Alive",
+          artist: "R3hab",
           cover: "img/7.jpg",
-          source: "./mp3/2.mp3",
+          source: "https://gitlab.com/DrkBotPublic/botarchives/-/raw/master/alive-rehab.mp3",
           url: "#",
           favorited: false
         },
         {
-          name: "Blinding Lights",
-          artist: "The Weeknd",
+          name: "Mashup Pop 2",
+          artist: "None",
           cover: "img/8.jpg",
-          source: "./mp3/2.mp3",
+          source: "https://gitlab.com/DrkBotPublic/botarchives/-/raw/master/mashup2.mp3",
           url: "#",
           favorited: false
         },
         {
-          name: "Blinding Lights",
+          name: "Regueton Mix V2",
+          artist: "None",
+          cover: "img/9.jpg",
+          source: "https://gitlab.com/DrkBotPublic/botarchives/-/raw/master/mixreggeton1.mp3",
+          url: "#",
+          favorited: false
+        },
+        {
+          name: "Electro Mix V1",
           artist: "The Weeknd",
           cover: "img/9.jpg",
-          source: "./mp3/2.mp3",
+          source: "https://gitlab.com/DrkBotPublic/botarchives/-/raw/master/mixelectro1.mp3",
           url: "#",
           favorited: false
         }
