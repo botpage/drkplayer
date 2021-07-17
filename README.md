@@ -18,10 +18,10 @@ https://botpage.github.io/drkplayer/
     <img src="https://img.shields.io/github/repo-size/tiktokusers/drkplayer?color=purple&label=Peso%20Repositorio&style=plastic">
 
   </a>
-  <!-- <a href="https://github.com/tiktokusers/drkplayer/blob/master/LICENSE">
+  <a href="https://github.com/tiktokusers/drkplayer/blob/master/LICENSE">
     <img src="https://img.shields.io/github/license/tiktokusers/drkplayer?color=purple&label=Lisencia&style=plastic">
 
-  </a> -->
+  </a>
   <a href="https://github.com/tiktokusers/drkplayer">
     <img src="https://img.shields.io/github/languages/top/tiktokusers/drkplayer?color=purple&label=Html&style=plastic">
 
